@@ -1,0 +1,11 @@
+my_guest = ['Zhou Enlai', 'Linda', 'Jessica']
+print("I find a bigger table.")
+my_guest.insert(0, 'Lucy')
+my_guest.insert(3, 'XiaoLi')
+my_guest.append('XiaoHong')
+print(my_guest[0] + " , please have a dinner with me.")
+print(my_guest[1] + " , please have a dinner with me.")
+print(my_guest[2] + " , please have a dinner with me.")
+print(my_guest[3] + " , please have a dinner with me.")
+print(my_guest[4] + " , please have a dinner with me.")
+print(my_guest[5] + " , please have a dinner with me.") 
